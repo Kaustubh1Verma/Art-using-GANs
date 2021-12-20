@@ -1,5 +1,5 @@
 # Art-using-GANs
-Final MTP(Major technical project) for BTech Computer at IIT Mandi,2020. 
+Final MTP(Major technical project) for BTech Computer Science at IIT Mandi,2020. 
 Generating novel art using GAN (Generative adversarial networks) based on combination of genres and styles.
 
 Please refer to the report for the details [Report](https://github.com/Kaustubh1Verma/Art-using-GANs/blob/master/MTP_Project.pdf)
